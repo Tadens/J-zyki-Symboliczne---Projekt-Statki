@@ -1,7 +1,10 @@
 # J-zyki-Symboliczne---Projekt-Statki
 Gra w statki (Battleship)
+
 Tadeusz Ciapała, nr albumu 131949
+
 Link do repozytorium: https://github.com/Tadens/J-zyki-Symboliczne---Projekt-Statki
+
 
 Chciałbym zaproponować temat, który zgłaszałem na początku semestru u pana doktora M. Ciury : Grę w statki na dwie osoby przez sieć lokalną (Bardzo przepraszam, że z takim opóźnieniem, niestety z powodu koronawirusa dopiero w maju mogłem zdawać 3 termin z zaległego przedmiotu i musiałem się przygotować). 
 
